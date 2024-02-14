@@ -1,0 +1,120 @@
+{
+	"valid_Dealer_Login": {
+		"email": "oliprosper@gmail.com",
+		"pw": "Bankole11!!"
+	},
+	"kitMapping_Dealer": {
+		"kitTag": "GLO-HH-SFX001-LAG-IKJ-3554664",
+		"assignedAgent": "geraldine.nwabude@gloagent.com",
+		"deviceType": "GLO-HH",
+		"deviceID": "HEWLETT-PACKARD-CNC0264JJ4",
+		"macAddress": "58-20-B1-7A-F5-70",
+		"kitTag1": "KYCNCC1074230AG03"
+	},
+	"returnToDealer": {
+		"kitTag": "KYCNCC1074230AG03",
+		"firstName": "Jaohar",
+		"surName": "Oseni",
+		"phoneNumber": "09020940945",
+		"gender": "FEMALE",
+		"outlet": "Test location",
+		"nubanPhoneNumber": "66437383838",
+		"vtuNumber": "41333313224"
+	},
+	"newKitAssignment": {
+		"kitTag2": "GLO-NB-853X",
+		"region": "SOUTH WEST 1",
+		"devicetype": "GLO-NB",
+		"deviceOwner": "GLO",
+		"subRegion": "IKOYI",
+		"state": "LAGOS",
+		"territory": "LAGOS ISLAND",
+		"LGA": "Eti Osa",
+		"area": "1004",
+		"outlet": "New Outlet",
+		"outlet1": "Seamfix support",
+		"outlet2": "Glo HQ",
+		"gender": "FEMALE",
+		"outletType": "GLOZONE",
+		"location": "Agungi Ajiran Road, Eti Osa, Lagos, Nigeria",
+		"outletName": "Seamfix Outlet",
+		"outletOwnerName": "Juliet Ebong",
+		"existingUser": "geraldine.nwabude@gloagent.com",
+		"existingPhoNum": "08073387430",
+		"kitTag1": "GLO-NB-006Z",
+		"existingFirstName": "Geraldine",
+		"existingSurname": "Nwabude",
+		
+		"kitTag": "GLO-DN-005V"	
+		
+		
+	},
+	"kit_Issue_log": {
+		"issueID": "ISS-21022020-00004",
+		"kitTag": "GLO-HH-SFX001-LAG-IKJ-788869",
+		"deviceID": "HEWLETT-PACKARD-CNF016607P"
+	},
+	"User_Issue_log": {
+		"issueID": "ISS-21022020-00005",
+		"emailAddress": "lessthan90@seamfix.com",
+		"userName": "we.tsest@gloagent.com"
+	},
+	"vtuDashboard": {
+		"startDate": "03/21/2018",
+		"endDate": "02/23/2019"
+	},
+	"vtuAirtime": {
+		"dealerName": "PRECIOUS NIGERIA LTD",
+		"subPhone": "08142050317",
+		"startDate": "01/25/2016",
+		"endDate": "01/25/2018",
+		"vtuNumber": "08034598770",
+		"userName": "jude@einrot.com"
+	},
+	"vtuData": {
+		"dealerName": "SEAMFIX SUPPORT",
+		"subPhone": "08142050317",
+		"data": "150",
+		"startDate": "02/02/2018",
+		"endDate": "02/28/2018",
+		"vtuNumber": "08034598770",
+		"userName": "jude@einrot.com"
+	},
+	"deviceRequisition": {
+		"state": "LAGOS",
+		"lga": "Badagry",
+		"area": "MOSAFEJO",
+		"startDate": "2017-10-11",
+		"endDate": "2018-03-13",
+		"count": "10",
+		"reason": "Testing"
+	},
+	"vtuOnboarding": {
+		"agentName": "iwuh",
+		"agentEmail": "jude@einrot.com",
+		"vtuNumber": "08034598770",
+		"startDate": "2017-01-25",
+		"endDate": "2018-01-25",
+		"agentEmail2": "kessyx1@yopmail.com"
+	},
+	"geoTracker": {
+		"dealerName": "PRECIOUS NIGERIA LTD",
+		"kitTag": "WIN-AG003-LAG-ETI-107353",
+		"macAddress": "00:08:22:67:23:32",
+		"totalActive0": "Total Active (0 Registration)",
+		"totalInactiveGeoBio": "Total Inactive (GeoTracker & BioSmart)",
+		"totalBlacklisted": "Total Blacklisted",
+		"totalActiveAbove2": "Total Active (2 - 59 Registrations)",
+		"deviceID": "SAMSUNG-359514064476200"
+	},
+	"emailValidation": {
+		"kitTag": "GLO-NB-254X",
+		"kitTag1": "GLO-NB-387X",
+		"gender": "FEMALE",
+		"outlet": "Seamfix Outlet",
+		"firstName": "uche",
+		"surName": "sfxtest",
+		"firstName1": "akin",
+		"surName1": "sfxtest"
+	}
+}

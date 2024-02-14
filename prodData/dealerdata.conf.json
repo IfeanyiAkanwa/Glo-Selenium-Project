@@ -1,0 +1,120 @@
+{
+	"valid_Dealer_Login": {
+		"email": "oliprosper22@gmail.com",
+		"pw": "Bankole11!!"
+	},
+	"kitMapping_Dealer": {
+		"kitTag": "GLO-HH-SFX001-LAG-ETI-424117",
+        "assignedAgent": "seamfix.sanity1@gloagent.com",
+        "deviceType": "GLO-HH",
+        "deviceID": "DELLINC.-835WKR2",
+        "macAddress": "00-50-56-C0-00-08",
+        "kitTag1" : "GLO-HH-SFX001-LAG-ETI-1722"
+	},
+	"returnToDealer": {
+		"kitTag": "DROID-SFX-LAG-ETI-3010",
+		"firstName": "Jaohar",
+		"surName": "Oseni",
+		"phoneNumber": "09020940945",
+		"gender": "FEMALE",
+		"outlet": "Test location",
+		"nubanPhoneNumber": "66437383838",
+		"vtuNumber": "41333313224"
+	},
+	"newKitAssignment": {
+		"kitTag": "GLO-HH-SFX001-LAG-ETI-1205",
+        "region": "SOUTH WEST 1",
+        "devicetype": "GLO-HH",
+        "deviceOwner": "GLO",
+        "subRegion": "IKOYI",
+        "state": "LAGOS",
+        "territory": "LAGOS ISLAND",
+        "LGA": "Eti Osa",
+        "area": "1004",
+        "outlet": "New Outlet",
+		"outlet2": "Glo HQ",
+        "outlet1": "SeamfixQH Test-Outlet",
+        "gender": "FEMALE",
+        "outletType": "COMPUTER CENTER",
+        "location": "Agungi Ajiran Road, Eti Osa, Lagos, Nigeria",
+        "outletName": "SEAMFIX SANITY TEST",
+        "outletOwnerName": "Seamfix SanityTest",
+        "existingUser": "geraldine.okon@gloagent.com",
+        "existingPhoNum": "08073387430",
+        "kitTag1" : "GLO-HH-SFX001-LAG-ETI-098S",
+		"existingFirstName": "Geraldine",
+		"existingSurname": "Nwabude"
+	},
+	"kit_Issue_log": {
+		"issueID": "ISS-29052020-00021",
+        "kitTag": "GLO-HH-SFX001-LAG-ETI-1205",
+        "deviceID": "DELLINC.-11GPFC2"
+	},
+	"User_Issue_log": {
+		"issueID": "ISS-29052020-00020",
+        "emailAddress": "chima.amaike@gloagent.com",
+        "userName": "seamfix.sanity1@gloagent.com"
+	},
+	"vtuDashboard": {
+		"startDate": "2019-02-21",
+  		"endDate": "2019-02-23"
+	},
+	"vtuAirtime": {
+		"dealerName": "PRECIOUS NIGERIA LTD",
+		"subPhone": "09062058076",
+   	    "startDate": "03/01/2018",
+   	    "endDate": "03/23/2018",
+    	"vtuNumber": "08144525418",
+   		"userName": "qaidahosa@mtnnigeria.net"
+	},
+	"vtuData": {
+		"dealerName": "SEAMFIX SUPPORT",
+    	"subPhone": "09032020434",
+    	"data": "150",
+   	    "startDate": "02/02/2018",
+    	"endDate": "02/28/2018",
+    	"vtuNumber": "08144525418",
+    	"userName": "qaidahosa@mtnnigeria.net"
+	},
+	"deviceRequisition": {
+		"state": "LAGOS",
+  		"lga": "Eti Osa",
+  		"area": "LEKKI PHASE 1",
+  		"startDate": "2017-10-11",
+  		"endDate": "2019-01-13",
+  		"count": "1",
+  		"reason": "Seamfix sanity Test"
+	},
+	"vtuOnboarding": {
+		"agentName": "Paschal",
+  		"agentEmail": "qaidahosa@mtnnigeria.net",
+  		"vtuNumber": "08137123318",
+  		"startDate": "2018-02-27",
+  		"endDate": "2018-09-02",
+  		"agentEmail2" : "pobilor@seamfix.com"
+	},
+	"geoTracker": {
+		"dealerName": "PRECIOUS NIGERIA LTD",
+		"kitTag": "WIN-SFX-LAG-ETI-000006",
+  		"macAddress": "90:67:1C:86:41:5E",
+  		"totalActive0": "Total Active (0 Registration)",
+  		"totalInactiveGeoBio": "Total Inactive (GeoTracker & BioSmart)",
+  		"totalBlacklisted": "Total Blacklisted",
+  		"totalActiveAbove2": "Total Active (2 - 39 Registrations)",
+  		"deviceID": "DELLINC.-97W3Q72"
+	},
+	"emailValidation": {
+		"kitTag": "DROID-SFX-LAG-ETI-8910",
+		"kitTag1": "DROID-SFX-LAG-ETI-2018084",
+		"gender": "FEMALE",
+		"outletType": "New Dawn",
+		"location": "Agungi Ajiran Road, Eti Osa, Lagos, Nigeria",
+		"outletName": "Onodu",
+		"outletOwnerName": "Juliet Ebong",
+		"outlet": "New Outlet",
+		"firstName": "ebuka",
+		"surName": "iloh",
+		"firstName1": "akin",
+		"surName1": "test"
+	}
+}

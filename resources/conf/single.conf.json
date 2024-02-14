@@ -1,0 +1,19 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "mex10",
+  "key": "K3Q1uvXgMgmZzkeWPfge",
+
+  "capabilities": {
+    "build": "testng-browserstack",
+    "name": "single_test",
+    "browserstack.debug": true
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome",
+      "browser_version": "71.0 beta",
+      "resolution": "1600x1200"
+    }
+  }
+}

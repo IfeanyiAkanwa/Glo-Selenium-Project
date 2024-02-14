@@ -1,0 +1,383 @@
+{
+  "Forgot_Password": {
+    "email": "adeola.sfxtest@yopmail.com",
+    "blacklistedEmail": "akinu.sfxtest@yopmail.com",
+    "deactivatedEmail": "ngozi.sfxtest@yopmail.com",
+    "wroCode": "091234",
+    "emailFormat": "as@wee",
+    "nonExistingUser": "as@wee.wer",
+    "validUserID": "SA298476",
+    "invalidUserID": "GN2323"
+  },
+  "valid_Admin_Login": {
+    "email": "gnwabude@seamfix.com",
+    "pw": "Bankole11!!"
+  },
+  
+  "valid_Super_Admin_Login": {
+    "email": "soli@seamfix.com",
+    "pw": "Bankole22!!"
+  },
+  "TermsAndConditionsLogin": {
+    "email": "gera.sfxtest@yopmail.com",
+    "pw": "Bankole1!!"
+  },
+  "Blacklisted_User": {
+    "email": "akinu.sfxtest@yopmail.com",
+    "pw": "Bankole11!!"
+  },
+  "Deactivated_User": {
+    "email": "ngozi.sfxtest@yopmail.com",
+    "pw": "Bankole1!!"
+  },
+  "Invalid_Email_Password": {
+    "email": "so@seamfix.com",
+    "pw": "bankole2!!"
+  },
+  "AD_ValidLogin": {
+    "userName": "seamfixadconnect",
+    "userName1": "lolakan",
+    "pw": "Support123",
+    "pw1": "Bankole1!!",
+    "email": "keanhive@gmail.com",
+    "email1": "lola.sfxtest@yopmail.com",
+     "invalidPw": "ban",
+    "invalidADUsername": "invaname",
+     "UserID": "GN345678",
+    "validPw": "Bankole11!!",
+     "invalidUserID": "GN2323"
+  },
+  "usermanagement": {
+    "Dealer": "SEAMFIXQA SUPPORT",
+    "Zone": "ABA",
+    "userPhone": "09050000000",
+    "userPhone2": "08050896183",
+    "userEmail": "chisom.sfxtest@yopmail.com",
+    "userFirstName": "Frank",
+    "userLastName": "Atube",
+    "deletedUser": "glo-dh-002g@gloworld.ng",
+    "de_activateUser": "glo-dh-001s@gloworld.ng",
+    "userHistory": "adejuwoonn@yahoo.com",
+    "performedBy": "mugwu@seamfix.com",
+    "approvedBy": "mugwu@seamfix.com",
+    "approvalComment": "This is Approved",
+    "disapprovalComment": "This is Disapproved",
+    "authenticationMode": "Biosmart",
+    "adUser": "seamfixadconnect",
+    "role": "GlO ADMIN",
+    "invalidStaffId": "0893",
+    "existingStaffId": "345678",
+    "bulkUser": "ada@yopmail.com",
+    
+    "deactivatedUser": "akin.ugwu@mtnagent.com",
+    "user_firstname": "blessing",
+    "user_lastname": "ephraim",
+    "user_phone": "08055570798",
+    
+    "newuser_phone": "09053017146",
+    "userEmail2": "eojong@seamfix.com",
+    "newcreateduserNo": "08078532853"
+    
+  },
+  "dealermanagement": {
+    "dealerName": "CHIDEX TELECOMS",
+    "Region": "ABA",
+    "dealerTyper": "BA",
+    "dealerPhone": "08078532853",
+    "dealerPhone2": "08050000088",
+    "dealerEmail": "aoluwabusola@seamfix.com",
+    "deletedDealer": "aoluwabusola@seamfix.com",
+    "de_activateDealer1": "melvic.global@gmail.com",
+    "de_activateDealer": "glozone.oyo-saki@gloworld.com",
+    "dealerHistory": "glozone.osun-ila@gloworld.com",
+    "performedBy": "gnwabude@seamfix.com",
+    "approvedBy": "gnwabude@seamfix.com",
+    "approvalComment": "This is Approved",
+    "disapprovalComment": "This is Disapproved"
+  },
+  "vtuDashboard": {
+    "dealerName": "PRECIOUS NIGERIA LTD",
+    "startDate": "2019-02-21",
+    "endDate": "2019-02-23",
+    "totalAirtime": "50",
+    "totalData": "500",
+    "successfulTrans": "550",
+    "failedTrans": "0",
+    "endDate2": "2018-10-02",
+    "totalAirtime2": "33025",
+    "totalData2": "15300",
+    "successfulTrans2": "29650",
+    "failedTrans2": "18675"
+  },
+  "kitMapping": {
+    "dealerName": "SEAMFIXQA SUPPORT",
+    "kitTag": "GLO-HH-VC-LAG-SHL-7Q27BBB",
+    "mapKitTag": "GLO-HH-SFX001-LAG-IKJ-788869",
+    "macAddress": "58-20-B1-7A-F5-70",
+    "assignedAgent": "akin.sfxtest@gloagent.com",
+    "deviceID": "DELLINC.-59FHY32", 
+    
+    "dealerName2":"COMRONE AND SONS"
+    
+    
+  },
+  "returnToDealer": {
+    "kitTag": "KYCNCC1074230AG03",
+    "userEmail": "soli@seamfix.com"
+  },
+  "blacklistWhitelist": {
+    "dealerName": "SEAMFIXQA SUPPORT TEST",
+    "kitTag": "GLO-DH-001A",
+    "macAddress": "B0-5A-DA-3A-B6-75",
+    "de_activateDevice": "SAMSUNG-352222081727319",
+    "userEmail": "soli@seamfix.com",
+    "deviceID": "TRIFONE-352394091316902"
+  },
+  "taggingRequest": {
+    "deviceID": "DELLINC.-11GPFC2",
+    "unassignDeviceID": "HUAWEI",
+    "reassignDisapprovedDeviceID": "HEWLETT-PACKARD-K834T992A01H",
+    "reassignApprovedDeviceID": "HUAWEI-866735022720928",
+    "tag": "GLO-HH-SFX001-LAG-ETI-78785",
+    "dealerName": "SEAMFIXQA SUPPORT TEST",
+    "dealerState": "LAGOS",
+    "dealerLga": "ETI OSA",
+    "serialNumber": "00010",
+    "deviceType": "GLO-HH",
+    "deviceTypeDroid": "GLO-DN",
+    "dealerCode": "SFX001",
+    "stateCode": "LAG",
+    "lgaCode": "ETI",
+    "startDate": "2018-12-03",
+    "endDate": "2020-12-12"
+  },
+  "taggingApproval": {
+    "deviceID": "DELLINC.-11GPFC2",
+    "unassignDeviceID": "SAMSUNG-359514064281006",
+    "tag": "GLO-HH-SFX001-LAG-ETI-787854",
+    "reassignDisapprovedDeviceID": "HEWLETT-PACKARD-K834T992A01H",
+    "reassignApprovedDeviceID": "HUAWEI-866735022720928",
+    "dealerName": "SEAMFIXQA SUPPORT TEST",
+    "startDate": "2018-12-03",
+    "endDate": "2020-12-12"
+  },
+  "outlet": {
+    "dealerName": "SEAMFIXQA SUPPORT TEST",
+    "outletName": "Loc Smart"
+  },
+  "vtuOnboarding": {
+    "dealerName": "PRECIOUS NIGERIA LTD",
+    "agentName": "Chibuzor Nwobi",
+    "agentEmail": "cekezie@seamfix.com",
+    "vtuNumber": "08069840440"
+  },
+  "vtuAirtime": {
+    "dealerName": "PRECIOUS NIGERIA LTD",
+    "subPhone": "08142050317",
+    "startDate": "12/01/2017",
+    "endDate": "01/25/2018",
+    "vtuNumber": "08167386655"
+  },
+  "vtuData": {
+    "dealerName": "PRECIOUS NIGERIA LTD",
+    "subPhone": "08142850317",
+    "data": "150",
+    "startDate": "01/11/2017",
+    "endDate": "01/25/2018",
+    "vtuNumber": "08167386655"
+  },
+  "b2b": {
+    "kitTag": "DROIDRICA-AG003-SOK-SBB-1000004",
+    "kitTagSFX": "KYCNCC1074230AG03"
+  },
+  "kitRetrieval": {
+    "kitTag": "DROIDLIBO-AG003-LAG-ETI-1000394",
+    "assignedAgent": "bhsalako@gmail.com",
+    "startDate": "01/21/2019",
+    "endDate": "02/07/2019",
+    "reason1": "Others",
+    "reason2": "Unavailable Agent"
+  },
+  "notification": {
+    "global": "Global",
+    "kitTag": "GLO-FH-FRRIV20095-ANA-AWS-16376",
+    "user": "somto.sfxtest@yopmail.com",
+    "startDate": "02/20/2020",
+    "endDate": "02/20/2020",
+    "dealerName": "1000 MAKS ENTERPRISE",
+    "sender": "soli@seamfix.com"
+  },
+  "subscriber": {
+    "fullUniqueID": "GLO-HH-SFX001-LAG-ETI-19090-1589816057838",
+    "partUniqueID": "GLO-HH-SFX001-LAG-ETI-19090-1589816",
+    "phoneNumber": "08050000089",
+    "fullSimSerial": "8923450701193281436F",
+    "partSimSerial": "8923450701193281",
+    "surname": "Nnanna",
+    "firstName": "Victor",
+    "otherName": "Ifeanyi"
+  },
+  "blacklistName": {
+    "name": "david",
+    "addedBy": "gnwabude@seamfix.com",
+    "startDate": "2020-05-01",
+    "endDate": "2020-05-16"
+  },
+  "dashboard": {
+    "dealerName": "SEAMFIXQA SUPPORT"
+  },
+  "requisition": {
+    "state": "LAGOS",
+    "lga": "Badagry",
+    "area": "TOPO",
+    "startDate": "2017-10-11",
+    "endDate": "2018-06-05",
+    "dealerName": "PRECIOUS NIGERIA LTD"
+  },
+  "kitIssueLog": {
+    "issueID": "ISS-13052020-00027",
+    "deviceID": "HEWLETT-PACKARD-CNF016607P",
+    "summaryWhitelist": "Whitelist Kit",
+    "summaryBlacklist": "Blacklist Kit",
+    "summaryUnableToLogin": "Unable to Login",
+    "summaryDeviceLicensing": "Device Licensing",
+    "summaryOtp": "Can't Receive OTP",
+    "summaryFingerprint": "Can't Capture Fingerprint",
+    "startDate": "02/21/2020",
+    "endDate": "04/28/2020",
+    "kitTag": "GLO-HH-SFX001-LAG-IKJ-788869"
+  },
+  "userIssueLog": {
+    "issueID": "ISS-21022020-00015",
+    "deviceID": "ALPS-358460050241367",
+    "startDate": "02/21/2020",
+    "endDate": "04/28/2020",
+    "emailResolve": "@gloagent.com",
+    "email": "glo-dh-001a@gloworld.ng"
+  },
+  "roleManager": {
+    "role1": "GLO ADMIN",
+    "role2": "DEALER"
+  },
+  "workflow": {
+    "name": "RETURN TO B2B WORKFLOW 2",
+    "activity": "DEVICE_REQUISITION_APPROVAL",
+    "description": "Return to B2B Workflow 1",
+    "addName": "Approval chain for Device Requisition",
+    "addRole": "SIMROP ADMIN"
+  },
+  "geoTracker": {
+    "dealerName": "SEAMFIXQA SUPPORT TEST",
+    "kitTag2": "GLO-HH-SFX001-LAG-ETI-00010",
+    "macAddress2": "54-BF-64-4C-AB-F5",
+    "division2": "Information Systems",
+    "region": "SOUTH WEST 1",
+    "state": "LAGOS",
+    "totalActive0": "Total Active (0 Registration)",
+    "totalInactiveGeoBio": "Total Inactive (GeoTracker & BioSmart)",
+    "totalBlacklisted": "Total Blacklisted",
+    "totalActiveAbove2": "Total Active (2 - 59 Registrations)",
+    "deviceID2": "SAMSUNG-352085093574700",
+    
+    
+    "kitTag":"GLO-HH-VC-LAG-SHL-7Q27BBB",
+    "macAddress":"50-9A-4C-C8-EB-DF",
+    "deviceID": "DELLINC.-59FHY32",
+    "division": "Customer Service"
+ 
+  },
+  "license": {
+    "deviceID": "DELLINC.-11GPFC2",
+    "tag": "GLO-HH-SFX001-LAG-ETI-48778",
+    "email": "vnwauwa@seamfix.com",
+    "macAddress": "28-F1-0E-01-33-00"
+  },
+  "emailValidation": {
+    "kitTag": "DROID-AG003-LAG-ETI-190000",
+    "kitTag1": "KYCNCC1074155AG03",
+    "gender": "FEMALE",
+    "outletType": "New Dawn",
+    "firstName": "ebuka",
+    "surName": "iloh",
+    "firstName1": "Cutie",
+    "surName1": "Pie"
+  },
+  "whiteListedNames": {
+    "name": "kingsley",
+    "name2": "victor",
+    "addedBy": "fatube@seamfix.com",
+    "added_By": "gnwabude@seamfix.com",
+    "startDate": "2019-08-01",
+    "endDate": "2019-09-09",
+    "invalidName": "Test123@"
+  },
+  "quarantinedEyeballing": {
+    "kitTag": "GLO-DN-SFX001-LAG-ETI-12345",
+    "kitTag2": "GLO-NB-SFX001-LAG-ETI-74633",
+    "searchKit": "GLO-DN-SFX001-LAG-ETI-95559",
+    "msisdn": "09059928393",
+    "msisdn1": "08050000059",
+    "quarantinedMsisdn": "08159437736",
+    "rejectMsisdn": "09155285662",
+    "startDate": "04/01/2021",
+    "startTime": "6/30/2021, 11:10 AM",
+    "agentEmail": "aapoloye@gmail.com",
+    "endDate": "06/07/2021",
+    "endTime": "12/12/2021, 11:10 AM",
+    "releaseReason": "Valid",
+    "rejectReason": "Test"
+  },
+  "basicEyeballing": {
+    "validMsisdn": "09075775876",
+    "validMsisdn2": "1111115001",
+    "validKitTag": "GLO-HH-SFX001-LAG-ETI-48778",
+    "registrationCenter": "SeamfixQH Outlet",
+    "startDate": "09/19/2020",
+    "endDate": "09/22/2020"
+  },
+  "numberBarring": {
+    "msisdn": "08050000005",
+    "kitTag": "GLO-HH-SFX001-LAG-ETI-23236",
+    "registrationCenter": "SeamfixQH Outlet",
+    "startDate": "01/19/2021",
+    "endDate": "09/22/2021"
+  },
+  "subscriberStatus": {
+    "subscriberMsisdn": "08050000005",
+    "subscriberKitTag": "GLO-HH-SFX001-LAG-ETI-1234",
+    "subscriberRegistrationCenter": "SeamfixQH Outlet",
+    "startDate": "09/19/2020",
+    "endDate": "09/22/2020"
+  },
+  "simSwap": {
+    "msisdn1": "08118071446",
+    "startDate": "09/19/2020",
+    "endDate": "11/25/2020",
+    "userId1": "GN345678",
+    "simSerial1": "8923450404209359805F",
+    
+    "msisdn": "07058351178",
+    "userId": "MU893232",
+    "simSerial":"8923450412192350244F",
+    "msisdn2": "9054802524"
+    
+    
+  },
+   "SIMSwapFraudAlerts": {
+    "msisdn": "08055931270",
+    "startDate": "10/10/2020",
+    "endDate": "10/30/2020"
+	},
+  "shopMapping": {
+    "msisdn": "09152705695",
+    "simSerial": "8923450604201991170F",
+    "outlet": "Seamfix Outlet",
+    "outlet2": "Seamfix Outlet 2"
+  },
+  "userMapping": {
+		"mappingName": "SEAMFIXQA",
+		"levelName": "TestA",
+		"email" : "gnwabude@seamfix.com",
+		"mappingName1" : "Ballers"
+	}
+}

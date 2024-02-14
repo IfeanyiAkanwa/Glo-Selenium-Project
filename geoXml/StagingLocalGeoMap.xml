@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="SIMROPSuite" parallel="tests" thread-count="5">
+	<parameter name="groupReport" value="/cacReport1.html" />
+	<parameter name="toMails" value="soli@seamfix.com" />
+	<parameter name="myBrowser" value="chrome" />
+	<parameter name="environment" value="chrome" />
+	<parameter name="server" value="local" />
+	<parameter name="config" value="parallel.conf.json" />
+	<parameter name="downloadPath" value="/file/" />
+	<parameter name="testEnv" value="StagingData" />
+
+
+	<test name="CAC" preserve-order="true">
+	<parameter name="user" value="validLogin" />
+		<classes>
+			<class name="CACTestCases.DeviceLocatorDeviceManagement">
+				<methods>
+					<include name="Login"></include>
+					<include name="assertDeviceCountTest"></include>
+					<include name="searchByKitTag"></include>
+					<include name="searchByMAC"></include>
+					<include name="searchByDeviceID"></include>
+					<include name="searchByDevision"></include>
+					<include name="searchByDealer"></include>
+					<include name="searchByState"></include>
+					<include name="searchByDeviceStatus"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>
+	
+	<test name="DEALER" preserve-order="true">
+	<parameter name="user" value="valid_Dealer_Login" />
+		<classes>
+			<class name="DealerTestCases.DeviceLocator">
+				<methods>
+					<include name="dealerLogin"></include>
+					<include name="assertDeviceCountTest"></include>
+					<include name="searchByKitTag"></include>
+					<include name="searchByMAC"></include>
+					<include name="searchByDeviceID"></include>
+					<include name="searchByDeviceStatus"></include>
+				</methods>
+			</class>
+		</classes>
+	</test>	
+</suite>  <!-- Suite -->
